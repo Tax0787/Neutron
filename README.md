@@ -1,7 +1,16 @@
 # Neutron
-Neutron is `Tax0787`'s project **`Beryllium`'s `GUI`FW**
+## Neutron is `Tax0787`'s project **`Beryllium`'s `GUI`FW**
 
 This `GUI` is **WUI** (**W**ebMarkupLanguageBased `G`**`UI`**)
+
+## Why Neutron
+the **FW** `Neutron` is named,
+
+Because When the **`beryllium`** is `decay`,
+
+**Strong** **`neutron`** has `emit`.
+
+~~In Fact I was want make strong WUI...~~
 
 ## `Beryllium`
 
